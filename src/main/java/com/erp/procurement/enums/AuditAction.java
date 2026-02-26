@@ -1,0 +1,7 @@
+package com.erp.procurement.enums;
+
+public enum AuditAction {
+    PO_CREATED, PO_UPDATED, PO_SUBMITTED, PO_APPROVED, PO_REJECTED,
+    PO_CANCELLED, PO_COMPLETED, PO_RECEIVED, PO_BILLED,
+    USER_LOGIN, USER_LOGOUT, USER_CREATED
+}
