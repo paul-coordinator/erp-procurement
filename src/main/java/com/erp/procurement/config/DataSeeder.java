@@ -1,5 +1,6 @@
 package com.erp.procurement.config;
 
+<<<<<<< HEAD
 import com.erp.procurement.entity.Supplier;
 import com.erp.procurement.entity.User;
 import com.erp.procurement.enums.Role;
@@ -86,3 +87,6 @@ public class DataSeeder implements CommandLineRunner {
         }
     }
 }
+=======
+// DATA SEEDER DISABLED FOR DEMO
+>>>>>>> 2f3462810bdb81884c007b6f64b6bb27d112e846

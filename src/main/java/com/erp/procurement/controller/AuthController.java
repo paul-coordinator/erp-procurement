@@ -1,5 +1,6 @@
 package com.erp.procurement.controller;
 
+<<<<<<< HEAD
 import com.erp.procurement.entity.User;
 import com.erp.procurement.enums.AuditAction;
 import com.erp.procurement.repository.UserRepository;
@@ -87,3 +88,6 @@ public class AuthController {
         ));
     }
 }
+=======
+// AUTH CONTROLLER DISABLED FOR DEMO
+>>>>>>> 2f3462810bdb81884c007b6f64b6bb27d112e846

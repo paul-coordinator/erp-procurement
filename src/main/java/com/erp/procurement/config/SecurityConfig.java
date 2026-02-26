@@ -1,5 +1,6 @@
 package com.erp.procurement.config;
 
+<<<<<<< HEAD
 import com.erp.procurement.repository.UserRepository;
 import com.erp.procurement.security.JwtAuthFilter;
 import org.springframework.context.annotation.Bean;
@@ -72,3 +73,6 @@ public class SecurityConfig {
         return new BCryptPasswordEncoder();
     }
 }
+=======
+// SECURITY DISABLED FOR DEMO
+>>>>>>> 2f3462810bdb81884c007b6f64b6bb27d112e846
